@@ -1,6 +1,3 @@
-Here's a professional README for DevNetx's GitHub profile, capturing the company's expertise, values, and offerings based on your vision for the company:
-
----
 
 # Welcome to DEVxNET🌐
 
